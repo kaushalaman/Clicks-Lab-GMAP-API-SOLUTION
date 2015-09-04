@@ -1,0 +1,2402 @@
+[
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 13,
+        "metered_distance": 5.7,
+        "distance_deviation": "3.51%",
+        "Faulty": "NO",
+        "engagement_id": 1
+    },
+    {
+        "time_deviation": "6.67%",
+        "metered_time": 15,
+        "metered_distance": 8,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 2
+    },
+    {
+        "time_deviation": "30.43%",
+        "metered_time": 23,
+        "metered_distance": 8.2,
+        "distance_deviation": "1.22%",
+        "Faulty": "NO",
+        "engagement_id": 3
+    },
+    {
+        "time_deviation": "40.91%",
+        "metered_time": 22,
+        "metered_distance": 7.5,
+        "distance_deviation": "4.00%",
+        "Faulty": "NO",
+        "engagement_id": 4
+    },
+    {
+        "time_deviation": "10.53%",
+        "metered_time": 19,
+        "metered_distance": 9.4,
+        "distance_deviation": "6.38%",
+        "Faulty": "NO",
+        "engagement_id": 5
+    },
+    {
+        "time_deviation": "17.65%",
+        "metered_time": 17,
+        "metered_distance": 7.1,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 6
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 14,
+        "metered_distance": 5.4,
+        "distance_deviation": "1.85%",
+        "Faulty": "NO",
+        "engagement_id": 7
+    },
+    {
+        "time_deviation": "97.06%",
+        "metered_time": 34,
+        "metered_distance": 0.4,
+        "distance_deviation": "1900.00%",
+        "Faulty": "YES",
+        "engagement_id": 8
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 18,
+        "metered_distance": 6.9,
+        "distance_deviation": "2.90%",
+        "Faulty": "NO",
+        "engagement_id": 9
+    },
+    {
+        "time_deviation": "10.00%",
+        "metered_time": 10,
+        "metered_distance": 2.9,
+        "distance_deviation": "20.69%",
+        "Faulty": "NO",
+        "engagement_id": 10
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 14,
+        "metered_distance": 4.7,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 11
+    },
+    {
+        "time_deviation": "27.27%",
+        "metered_time": 22,
+        "metered_distance": 7.6,
+        "distance_deviation": "3.95%",
+        "Faulty": "NO",
+        "engagement_id": 12
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 14,
+        "metered_distance": 4.4,
+        "distance_deviation": "2.27%",
+        "Faulty": "NO",
+        "engagement_id": 13
+    },
+    {
+        "time_deviation": "26.09%",
+        "metered_time": 23,
+        "metered_distance": 9.7,
+        "distance_deviation": "2.06%",
+        "Faulty": "NO",
+        "engagement_id": 14
+    },
+    {
+        "time_deviation": "23.53%",
+        "metered_time": 17,
+        "metered_distance": 6.3,
+        "distance_deviation": "15.87%",
+        "Faulty": "NO",
+        "engagement_id": 15
+    },
+    {
+        "time_deviation": "90.57%",
+        "metered_time": 53,
+        "metered_distance": 6.5,
+        "distance_deviation": "78.46%",
+        "Faulty": "YES",
+        "engagement_id": 16
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 10,
+        "metered_distance": 2.6,
+        "distance_deviation": "3.85%",
+        "Faulty": "NO",
+        "engagement_id": 17
+    },
+    {
+        "time_deviation": "7.14%",
+        "metered_time": 14,
+        "metered_distance": 4.8,
+        "distance_deviation": "25.00%",
+        "Faulty": "NO",
+        "engagement_id": 18
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 12,
+        "metered_distance": 4.8,
+        "distance_deviation": "4.17%",
+        "Faulty": "NO",
+        "engagement_id": 19
+    },
+    {
+        "time_deviation": "10.00%",
+        "metered_time": 10,
+        "metered_distance": 3.8,
+        "distance_deviation": "10.53%",
+        "Faulty": "NO",
+        "engagement_id": 20
+    },
+    {
+        "time_deviation": "20.83%",
+        "metered_time": 24,
+        "metered_distance": 9.8,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 21
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 11,
+        "metered_distance": 4.1,
+        "distance_deviation": "2.44%",
+        "Faulty": "NO",
+        "engagement_id": 22
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 7,
+        "metered_distance": 2,
+        "distance_deviation": "40.00%",
+        "Faulty": "NO",
+        "engagement_id": 23
+    },
+    {
+        "time_deviation": "86.05%",
+        "metered_time": 43,
+        "metered_distance": 13.9,
+        "distance_deviation": "82.73%",
+        "Faulty": "YES",
+        "engagement_id": 24
+    },
+    {
+        "time_deviation": "55.17%",
+        "metered_time": 29,
+        "metered_distance": 9.4,
+        "distance_deviation": "58.51%",
+        "Faulty": "YES",
+        "engagement_id": 25
+    },
+    {
+        "time_deviation": "50.00%",
+        "metered_time": 12,
+        "metered_distance": 3.7,
+        "distance_deviation": "40.54%",
+        "Faulty": "NO",
+        "engagement_id": 26
+    },
+    {
+        "time_deviation": "83.33%",
+        "metered_time": 24,
+        "metered_distance": 9.4,
+        "distance_deviation": "79.79%",
+        "Faulty": "YES",
+        "engagement_id": 27
+    },
+    {
+        "time_deviation": "42.11%",
+        "metered_time": 19,
+        "metered_distance": 7.1,
+        "distance_deviation": "23.94%",
+        "Faulty": "NO",
+        "engagement_id": 28
+    },
+    {
+        "time_deviation": "58.06%",
+        "metered_time": 31,
+        "metered_distance": 8.9,
+        "distance_deviation": "26.97%",
+        "Faulty": "YES",
+        "engagement_id": 29
+    },
+    {
+        "time_deviation": "96.00%",
+        "metered_time": 25,
+        "metered_distance": 6.4,
+        "distance_deviation": "368.75%",
+        "Faulty": "YES",
+        "engagement_id": 30
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 7,
+        "metered_distance": 1.8,
+        "distance_deviation": "11.11%",
+        "Faulty": "NO",
+        "engagement_id": 31
+    },
+    {
+        "time_deviation": "31.82%",
+        "metered_time": 22,
+        "metered_distance": 8.2,
+        "distance_deviation": "6.10%",
+        "Faulty": "NO",
+        "engagement_id": 32
+    },
+    {
+        "time_deviation": "78.79%",
+        "metered_time": 33,
+        "metered_distance": 11.1,
+        "distance_deviation": "69.37%",
+        "Faulty": "YES",
+        "engagement_id": 33
+    },
+    {
+        "time_deviation": "46.67%",
+        "metered_time": 15,
+        "metered_distance": 3.5,
+        "distance_deviation": "17.14%",
+        "Faulty": "NO",
+        "engagement_id": 34
+    },
+    {
+        "time_deviation": "18.75%",
+        "metered_time": 16,
+        "metered_distance": 8,
+        "distance_deviation": "15.00%",
+        "Faulty": "NO",
+        "engagement_id": 35
+    },
+    {
+        "time_deviation": "10.00%",
+        "metered_time": 10,
+        "metered_distance": 3,
+        "distance_deviation": "3.33%",
+        "Faulty": "NO",
+        "engagement_id": 36
+    },
+    {
+        "time_deviation": "66.67%",
+        "metered_time": 15,
+        "metered_distance": 1.5,
+        "distance_deviation": "6.67%",
+        "Faulty": "NO",
+        "engagement_id": 37
+    },
+    {
+        "time_deviation": "30.77%",
+        "metered_time": 13,
+        "metered_distance": 4.9,
+        "distance_deviation": "18.37%",
+        "Faulty": "NO",
+        "engagement_id": 38
+    },
+    {
+        "time_deviation": "55.56%",
+        "metered_time": 27,
+        "metered_distance": 6.8,
+        "distance_deviation": "33.82%",
+        "Faulty": "YES",
+        "engagement_id": 39
+    },
+    {
+        "time_deviation": "54.29%",
+        "metered_time": 35,
+        "metered_distance": 8.4,
+        "distance_deviation": "9.52%",
+        "Faulty": "NO",
+        "engagement_id": 40
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 5,
+        "metered_distance": 1.8,
+        "distance_deviation": "22.22%",
+        "Faulty": "NO",
+        "engagement_id": 41
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 9,
+        "metered_distance": 1.6,
+        "distance_deviation": "6.25%",
+        "Faulty": "NO",
+        "engagement_id": 42
+    },
+    {
+        "time_deviation": "38.71%",
+        "metered_time": 31,
+        "metered_distance": 9.4,
+        "distance_deviation": "7.45%",
+        "Faulty": "NO",
+        "engagement_id": 43
+    },
+    {
+        "time_deviation": "34.48%",
+        "metered_time": 29,
+        "metered_distance": 9.5,
+        "distance_deviation": "14.74%",
+        "Faulty": "NO",
+        "engagement_id": 44
+    },
+    {
+        "time_deviation": "52.94%",
+        "metered_time": 17,
+        "metered_distance": 5.3,
+        "distance_deviation": "24.53%",
+        "Faulty": "NO",
+        "engagement_id": 45
+    },
+    {
+        "time_deviation": "65.91%",
+        "metered_time": 44,
+        "metered_distance": 8.4,
+        "distance_deviation": "14.29%",
+        "Faulty": "NO",
+        "engagement_id": 46
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 6,
+        "metered_distance": 2.3,
+        "distance_deviation": "21.74%",
+        "Faulty": "NO",
+        "engagement_id": 47
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 4.5,
+        "distance_deviation": "15.56%",
+        "Faulty": "NO",
+        "engagement_id": 48
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 21,
+        "metered_distance": 9.5,
+        "distance_deviation": "1.05%",
+        "Faulty": "NO",
+        "engagement_id": 49
+    },
+    {
+        "time_deviation": "9.00%",
+        "metered_time": 0,
+        "metered_distance": 3.6,
+        "distance_deviation": "11.11%",
+        "Faulty": "NO",
+        "engagement_id": 50
+    },
+    {
+        "time_deviation": "46.15%",
+        "metered_time": 13,
+        "metered_distance": 3.2,
+        "distance_deviation": "6.25%",
+        "Faulty": "NO",
+        "engagement_id": 51
+    },
+    {
+        "time_deviation": "12.50%",
+        "metered_time": 8,
+        "metered_distance": 3,
+        "distance_deviation": "3.33%",
+        "Faulty": "NO",
+        "engagement_id": 52
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 5,
+        "metered_distance": 2.1,
+        "distance_deviation": "9.52%",
+        "Faulty": "NO",
+        "engagement_id": 53
+    },
+    {
+        "time_deviation": "82.14%",
+        "metered_time": 28,
+        "metered_distance": 7.2,
+        "distance_deviation": "70.83%",
+        "Faulty": "YES",
+        "engagement_id": 54
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 9,
+        "metered_distance": 3.5,
+        "distance_deviation": "5.71%",
+        "Faulty": "NO",
+        "engagement_id": 55
+    },
+    {
+        "time_deviation": "81.63%",
+        "metered_time": 49,
+        "metered_distance": 7,
+        "distance_deviation": "34.29%",
+        "Faulty": "YES",
+        "engagement_id": 56
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 6,
+        "metered_distance": 2.1,
+        "distance_deviation": "19.05%",
+        "Faulty": "NO",
+        "engagement_id": 57
+    },
+    {
+        "time_deviation": "11.00%",
+        "metered_time": 0,
+        "metered_distance": 6,
+        "distance_deviation": "11.67%",
+        "Faulty": "NO",
+        "engagement_id": 58
+    },
+    {
+        "time_deviation": "50.00%",
+        "metered_time": 22,
+        "metered_distance": 7.9,
+        "distance_deviation": "40.51%",
+        "Faulty": "YES",
+        "engagement_id": 59
+    },
+    {
+        "time_deviation": "28.00%",
+        "metered_time": 25,
+        "metered_distance": 8.1,
+        "distance_deviation": "7.41%",
+        "Faulty": "NO",
+        "engagement_id": 60
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 12,
+        "metered_distance": 4.3,
+        "distance_deviation": "4.65%",
+        "Faulty": "NO",
+        "engagement_id": 61
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 12,
+        "metered_distance": 4.3,
+        "distance_deviation": "16.28%",
+        "Faulty": "NO",
+        "engagement_id": 62
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 12,
+        "metered_distance": 3.6,
+        "distance_deviation": "13.89%",
+        "Faulty": "NO",
+        "engagement_id": 63
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 20,
+        "metered_distance": 7.9,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 64
+    },
+    {
+        "time_deviation": "12.00%",
+        "metered_time": 0,
+        "metered_distance": 5.2,
+        "distance_deviation": "1.92%",
+        "Faulty": "NO",
+        "engagement_id": 65
+    },
+    {
+        "time_deviation": "36.36%",
+        "metered_time": 11,
+        "metered_distance": 2.9,
+        "distance_deviation": "13.79%",
+        "Faulty": "NO",
+        "engagement_id": 66
+    },
+    {
+        "time_deviation": "51.43%",
+        "metered_time": 35,
+        "metered_distance": 11.2,
+        "distance_deviation": "23.21%",
+        "Faulty": "YES",
+        "engagement_id": 67
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 7,
+        "metered_distance": 3,
+        "distance_deviation": "10.00%",
+        "Faulty": "NO",
+        "engagement_id": 68
+    },
+    {
+        "time_deviation": "23.33%",
+        "metered_time": 30,
+        "metered_distance": 12,
+        "distance_deviation": "4.17%",
+        "Faulty": "NO",
+        "engagement_id": 69
+    },
+    {
+        "time_deviation": "63.64%",
+        "metered_time": 33,
+        "metered_distance": 7.9,
+        "distance_deviation": "8.86%",
+        "Faulty": "NO",
+        "engagement_id": 70
+    },
+    {
+        "time_deviation": "9.00%",
+        "metered_time": 0,
+        "metered_distance": 4.1,
+        "distance_deviation": "21.95%",
+        "Faulty": "NO",
+        "engagement_id": 71
+    },
+    {
+        "time_deviation": "96.97%",
+        "metered_time": 33,
+        "metered_distance": 4.6,
+        "distance_deviation": "91.30%",
+        "Faulty": "YES",
+        "engagement_id": 72
+    },
+    {
+        "time_deviation": "8.33%",
+        "metered_time": 12,
+        "metered_distance": 4.6,
+        "distance_deviation": "2.17%",
+        "Faulty": "NO",
+        "engagement_id": 73
+    },
+    {
+        "time_deviation": "11.11%",
+        "metered_time": 9,
+        "metered_distance": 4.4,
+        "distance_deviation": "4.55%",
+        "Faulty": "NO",
+        "engagement_id": 74
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 10,
+        "metered_distance": 3.3,
+        "distance_deviation": "21.21%",
+        "Faulty": "NO",
+        "engagement_id": 75
+    },
+    {
+        "time_deviation": "12.50%",
+        "metered_time": 8,
+        "metered_distance": 2.6,
+        "distance_deviation": "11.54%",
+        "Faulty": "NO",
+        "engagement_id": 76
+    },
+    {
+        "time_deviation": "42.86%",
+        "metered_time": 21,
+        "metered_distance": 4.9,
+        "distance_deviation": "4.08%",
+        "Faulty": "NO",
+        "engagement_id": 77
+    },
+    {
+        "time_deviation": "90.32%",
+        "metered_time": 31,
+        "metered_distance": 2,
+        "distance_deviation": "60.00%",
+        "Faulty": "NO",
+        "engagement_id": 78
+    },
+    {
+        "time_deviation": "11.11%",
+        "metered_time": 18,
+        "metered_distance": 7.1,
+        "distance_deviation": "1.41%",
+        "Faulty": "NO",
+        "engagement_id": 79
+    },
+    {
+        "time_deviation": "35.71%",
+        "metered_time": 14,
+        "metered_distance": 4,
+        "distance_deviation": "10.00%",
+        "Faulty": "NO",
+        "engagement_id": 80
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 4.3,
+        "distance_deviation": "4.65%",
+        "Faulty": "NO",
+        "engagement_id": 81
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 10.9,
+        "distance_deviation": "42.20%",
+        "Faulty": "NO",
+        "engagement_id": 82
+    },
+    {
+        "time_deviation": "67.44%",
+        "metered_time": 43,
+        "metered_distance": 7.5,
+        "distance_deviation": "34.67%",
+        "Faulty": "YES",
+        "engagement_id": 83
+    },
+    {
+        "time_deviation": "46.67%",
+        "metered_time": 15,
+        "metered_distance": 4.2,
+        "distance_deviation": "21.43%",
+        "Faulty": "NO",
+        "engagement_id": 84
+    },
+    {
+        "time_deviation": "51.61%",
+        "metered_time": 31,
+        "metered_distance": 10.3,
+        "distance_deviation": "21.36%",
+        "Faulty": "YES",
+        "engagement_id": 85
+    },
+    {
+        "time_deviation": "87.10%",
+        "metered_time": 31,
+        "metered_distance": 8.7,
+        "distance_deviation": "81.61%",
+        "Faulty": "YES",
+        "engagement_id": 86
+    },
+    {
+        "time_deviation": "100.00%",
+        "metered_time": 1,
+        "metered_distance": 0,
+        "distance_deviation": "0.40%",
+        "Faulty": "NO",
+        "engagement_id": 87
+    },
+    {
+        "time_deviation": "43.48%",
+        "metered_time": 23,
+        "metered_distance": 9.6,
+        "distance_deviation": "17.71%",
+        "Faulty": "NO",
+        "engagement_id": 88
+    },
+    {
+        "time_deviation": "16.00%",
+        "metered_time": 25,
+        "metered_distance": 9.2,
+        "distance_deviation": "11.96%",
+        "Faulty": "NO",
+        "engagement_id": 89
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 21,
+        "metered_distance": 7.9,
+        "distance_deviation": "2.53%",
+        "Faulty": "NO",
+        "engagement_id": 90
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 12,
+        "metered_distance": 4.4,
+        "distance_deviation": "2.27%",
+        "Faulty": "NO",
+        "engagement_id": 91
+    },
+    {
+        "time_deviation": "66.67%",
+        "metered_time": 36,
+        "metered_distance": 12.6,
+        "distance_deviation": "66.67%",
+        "Faulty": "YES",
+        "engagement_id": 92
+    },
+    {
+        "time_deviation": "50.00%",
+        "metered_time": 34,
+        "metered_distance": 8.2,
+        "distance_deviation": "2.44%",
+        "Faulty": "NO",
+        "engagement_id": 93
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 8,
+        "metered_distance": 2.5,
+        "distance_deviation": "36.00%",
+        "Faulty": "NO",
+        "engagement_id": 94
+    },
+    {
+        "time_deviation": "12.50%",
+        "metered_time": 8,
+        "metered_distance": 2.3,
+        "distance_deviation": "13.04%",
+        "Faulty": "NO",
+        "engagement_id": 95
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 8,
+        "metered_distance": 2,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 96
+    },
+    {
+        "time_deviation": "5.00%",
+        "metered_time": 20,
+        "metered_distance": 9.7,
+        "distance_deviation": "6.19%",
+        "Faulty": "NO",
+        "engagement_id": 97
+    },
+    {
+        "time_deviation": "5.88%",
+        "metered_time": 17,
+        "metered_distance": 7.4,
+        "distance_deviation": "6.76%",
+        "Faulty": "NO",
+        "engagement_id": 98
+    },
+    {
+        "time_deviation": "72.73%",
+        "metered_time": 33,
+        "metered_distance": 4.7,
+        "distance_deviation": "6.38%",
+        "Faulty": "NO",
+        "engagement_id": 99
+    },
+    {
+        "time_deviation": "97.30%",
+        "metered_time": 37,
+        "metered_distance": 9.2,
+        "distance_deviation": "93.48%",
+        "Faulty": "YES",
+        "engagement_id": 100
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 9,
+        "metered_distance": 3.4,
+        "distance_deviation": "2.94%",
+        "Faulty": "NO",
+        "engagement_id": 101
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 5,
+        "distance_deviation": "6.00%",
+        "Faulty": "NO",
+        "engagement_id": 102
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 7,
+        "metered_distance": 2.9,
+        "distance_deviation": "20.69%",
+        "Faulty": "NO",
+        "engagement_id": 103
+    },
+    {
+        "time_deviation": "83.33%",
+        "metered_time": 42,
+        "metered_distance": 8.7,
+        "distance_deviation": "75.86%",
+        "Faulty": "YES",
+        "engagement_id": 104
+    },
+    {
+        "time_deviation": "12.50%",
+        "metered_time": 8,
+        "metered_distance": 2.9,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 105
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 9,
+        "metered_distance": 2.5,
+        "distance_deviation": "52.00%",
+        "Faulty": "NO",
+        "engagement_id": 106
+    },
+    {
+        "time_deviation": "67.65%",
+        "metered_time": 34,
+        "metered_distance": 10,
+        "distance_deviation": "63.00%",
+        "Faulty": "YES",
+        "engagement_id": 107
+    },
+    {
+        "time_deviation": "54.55%",
+        "metered_time": 11,
+        "metered_distance": 0,
+        "distance_deviation": "1.80%",
+        "Faulty": "NO",
+        "engagement_id": 108
+    },
+    {
+        "time_deviation": "5.56%",
+        "metered_time": 18,
+        "metered_distance": 6.3,
+        "distance_deviation": "1.59%",
+        "Faulty": "NO",
+        "engagement_id": 109
+    },
+    {
+        "time_deviation": "56.52%",
+        "metered_time": 23,
+        "metered_distance": 4.8,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 110
+    },
+    {
+        "time_deviation": "84.00%",
+        "metered_time": 25,
+        "metered_distance": 2,
+        "distance_deviation": "60.00%",
+        "Faulty": "NO",
+        "engagement_id": 111
+    },
+    {
+        "time_deviation": "89.33%",
+        "metered_time": 75,
+        "metered_distance": 2.6,
+        "distance_deviation": "15.38%",
+        "Faulty": "NO",
+        "engagement_id": 112
+    },
+    {
+        "time_deviation": "44.44%",
+        "metered_time": 9,
+        "metered_distance": 1.6,
+        "distance_deviation": "18.75%",
+        "Faulty": "NO",
+        "engagement_id": 113
+    },
+    {
+        "time_deviation": "300.00%",
+        "metered_time": 3,
+        "metered_distance": 0,
+        "distance_deviation": "5.50%",
+        "Faulty": "NO",
+        "engagement_id": 114
+    },
+    {
+        "time_deviation": "43.48%",
+        "metered_time": 23,
+        "metered_distance": 8.4,
+        "distance_deviation": "19.05%",
+        "Faulty": "NO",
+        "engagement_id": 115
+    },
+    {
+        "time_deviation": "82.35%",
+        "metered_time": 34,
+        "metered_distance": 13,
+        "distance_deviation": "76.15%",
+        "Faulty": "YES",
+        "engagement_id": 116
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 3.8,
+        "distance_deviation": "31.58%",
+        "Faulty": "NO",
+        "engagement_id": 117
+    },
+    {
+        "time_deviation": "21.74%",
+        "metered_time": 23,
+        "metered_distance": 9.1,
+        "distance_deviation": "2.20%",
+        "Faulty": "NO",
+        "engagement_id": 118
+    },
+    {
+        "time_deviation": "92.45%",
+        "metered_time": 53,
+        "metered_distance": 9.5,
+        "distance_deviation": "88.42%",
+        "Faulty": "YES",
+        "engagement_id": 119
+    },
+    {
+        "time_deviation": "7.14%",
+        "metered_time": 14,
+        "metered_distance": 5.1,
+        "distance_deviation": "5.88%",
+        "Faulty": "NO",
+        "engagement_id": 120
+    },
+    {
+        "time_deviation": "27.59%",
+        "metered_time": 29,
+        "metered_distance": 10,
+        "distance_deviation": "2.00%",
+        "Faulty": "NO",
+        "engagement_id": 121
+    },
+    {
+        "time_deviation": "60.00%",
+        "metered_time": 25,
+        "metered_distance": 9,
+        "distance_deviation": "50.00%",
+        "Faulty": "YES",
+        "engagement_id": 122
+    },
+    {
+        "time_deviation": "70.59%",
+        "metered_time": 34,
+        "metered_distance": 6.1,
+        "distance_deviation": "47.54%",
+        "Faulty": "YES",
+        "engagement_id": 123
+    },
+    {
+        "time_deviation": "95.83%",
+        "metered_time": 24,
+        "metered_distance": 6.2,
+        "distance_deviation": "883.87%",
+        "Faulty": "YES",
+        "engagement_id": 124
+    },
+    {
+        "time_deviation": "11.11%",
+        "metered_time": 18,
+        "metered_distance": 6.1,
+        "distance_deviation": "11.48%",
+        "Faulty": "NO",
+        "engagement_id": 125
+    },
+    {
+        "time_deviation": "60.00%",
+        "metered_time": 20,
+        "metered_distance": 6.1,
+        "distance_deviation": "26.23%",
+        "Faulty": "NO",
+        "engagement_id": 126
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 18,
+        "metered_distance": 6.5,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 127
+    },
+    {
+        "time_deviation": "55.56%",
+        "metered_time": 9,
+        "metered_distance": 1,
+        "distance_deviation": "30.00%",
+        "Faulty": "NO",
+        "engagement_id": 128
+    },
+    {
+        "time_deviation": "84.21%",
+        "metered_time": 57,
+        "metered_distance": 6,
+        "distance_deviation": "18.33%",
+        "Faulty": "NO",
+        "engagement_id": 129
+    },
+    {
+        "time_deviation": "66.67%",
+        "metered_time": 42,
+        "metered_distance": 11.7,
+        "distance_deviation": "47.86%",
+        "Faulty": "YES",
+        "engagement_id": 130
+    },
+    {
+        "time_deviation": "78.12%",
+        "metered_time": 32,
+        "metered_distance": 9.1,
+        "distance_deviation": "71.43%",
+        "Faulty": "YES",
+        "engagement_id": 131
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 12,
+        "metered_distance": 2,
+        "distance_deviation": "30.00%",
+        "Faulty": "NO",
+        "engagement_id": 132
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 20,
+        "metered_distance": 7,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 133
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 3,
+        "metered_distance": 1.1,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 134
+    },
+    {
+        "time_deviation": "21.43%",
+        "metered_time": 14,
+        "metered_distance": 4.7,
+        "distance_deviation": "14.89%",
+        "Faulty": "NO",
+        "engagement_id": 135
+    },
+    {
+        "time_deviation": "21.43%",
+        "metered_time": 14,
+        "metered_distance": 6.1,
+        "distance_deviation": "16.39%",
+        "Faulty": "NO",
+        "engagement_id": 136
+    },
+    {
+        "time_deviation": "64.71%",
+        "metered_time": 51,
+        "metered_distance": 9.7,
+        "distance_deviation": "9.28%",
+        "Faulty": "NO",
+        "engagement_id": 137
+    },
+    {
+        "time_deviation": "65.71%",
+        "metered_time": 35,
+        "metered_distance": 11.3,
+        "distance_deviation": "49.56%",
+        "Faulty": "YES",
+        "engagement_id": 138
+    },
+    {
+        "time_deviation": "31.25%",
+        "metered_time": 16,
+        "metered_distance": 5.1,
+        "distance_deviation": "15.69%",
+        "Faulty": "NO",
+        "engagement_id": 139
+    },
+    {
+        "time_deviation": "61.90%",
+        "metered_time": 21,
+        "metered_distance": 4.1,
+        "distance_deviation": "9.76%",
+        "Faulty": "NO",
+        "engagement_id": 140
+    },
+    {
+        "time_deviation": "13.64%",
+        "metered_time": 22,
+        "metered_distance": 12.9,
+        "distance_deviation": "37.21%",
+        "Faulty": "NO",
+        "engagement_id": 141
+    },
+    {
+        "time_deviation": "86.11%",
+        "metered_time": 36,
+        "metered_distance": 8.7,
+        "distance_deviation": "77.01%",
+        "Faulty": "YES",
+        "engagement_id": 142
+    },
+    {
+        "time_deviation": "50.00%",
+        "metered_time": 18,
+        "metered_distance": 4.3,
+        "distance_deviation": "11.63%",
+        "Faulty": "NO",
+        "engagement_id": 143
+    },
+    {
+        "time_deviation": "31.58%",
+        "metered_time": 19,
+        "metered_distance": 5.4,
+        "distance_deviation": "1.85%",
+        "Faulty": "NO",
+        "engagement_id": 144
+    },
+    {
+        "time_deviation": "48.00%",
+        "metered_time": 25,
+        "metered_distance": 7.1,
+        "distance_deviation": "7.04%",
+        "Faulty": "NO",
+        "engagement_id": 145
+    },
+    {
+        "time_deviation": "28.00%",
+        "metered_time": 25,
+        "metered_distance": 8.6,
+        "distance_deviation": "10.47%",
+        "Faulty": "NO",
+        "engagement_id": 146
+    },
+    {
+        "time_deviation": "9.09%",
+        "metered_time": 11,
+        "metered_distance": 3.6,
+        "distance_deviation": "38.89%",
+        "Faulty": "NO",
+        "engagement_id": 147
+    },
+    {
+        "time_deviation": "36.36%",
+        "metered_time": 33,
+        "metered_distance": 14.7,
+        "distance_deviation": "19.73%",
+        "Faulty": "YES",
+        "engagement_id": 148
+    },
+    {
+        "time_deviation": "67.74%",
+        "metered_time": 31,
+        "metered_distance": 7.6,
+        "distance_deviation": "34.21%",
+        "Faulty": "YES",
+        "engagement_id": 149
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 7,
+        "metered_distance": 2.8,
+        "distance_deviation": "35.71%",
+        "Faulty": "NO",
+        "engagement_id": 150
+    },
+    {
+        "time_deviation": "39.02%",
+        "metered_time": 41,
+        "metered_distance": 12.7,
+        "distance_deviation": "0.79%",
+        "Faulty": "NO",
+        "engagement_id": 151
+    },
+    {
+        "time_deviation": "39.13%",
+        "metered_time": 23,
+        "metered_distance": 15.4,
+        "distance_deviation": "53.90%",
+        "Faulty": "NO",
+        "engagement_id": 152
+    },
+    {
+        "time_deviation": "78.00%",
+        "metered_time": 50,
+        "metered_distance": 12.7,
+        "distance_deviation": "50.39%",
+        "Faulty": "YES",
+        "engagement_id": 153
+    },
+    {
+        "time_deviation": "31.58%",
+        "metered_time": 19,
+        "metered_distance": 5.7,
+        "distance_deviation": "7.02%",
+        "Faulty": "NO",
+        "engagement_id": 154
+    },
+    {
+        "time_deviation": "53.57%",
+        "metered_time": 28,
+        "metered_distance": 7.6,
+        "distance_deviation": "31.58%",
+        "Faulty": "YES",
+        "engagement_id": 155
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 30,
+        "metered_distance": 11,
+        "distance_deviation": "10.91%",
+        "Faulty": "NO",
+        "engagement_id": 156
+    },
+    {
+        "time_deviation": "58.33%",
+        "metered_time": 24,
+        "metered_distance": 10.2,
+        "distance_deviation": "63.73%",
+        "Faulty": "YES",
+        "engagement_id": 157
+    },
+    {
+        "time_deviation": "7.69%",
+        "metered_time": 13,
+        "metered_distance": 4.9,
+        "distance_deviation": "4.08%",
+        "Faulty": "NO",
+        "engagement_id": 158
+    },
+    {
+        "time_deviation": "62.75%",
+        "metered_time": 51,
+        "metered_distance": 7.5,
+        "distance_deviation": "6.67%",
+        "Faulty": "NO",
+        "engagement_id": 159
+    },
+    {
+        "time_deviation": "1000.00%",
+        "metered_time": 3,
+        "metered_distance": 18,
+        "distance_deviation": "3.89%",
+        "Faulty": "NO",
+        "engagement_id": 160
+    },
+    {
+        "time_deviation": "26.09%",
+        "metered_time": 23,
+        "metered_distance": 9.4,
+        "distance_deviation": "17.02%",
+        "Faulty": "NO",
+        "engagement_id": 161
+    },
+    {
+        "time_deviation": "7.00%",
+        "metered_time": 0,
+        "metered_distance": 2.6,
+        "distance_deviation": "26.92%",
+        "Faulty": "NO",
+        "engagement_id": 162
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 9,
+        "metered_distance": 3.1,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 163
+    },
+    {
+        "time_deviation": "98.55%",
+        "metered_time": 69,
+        "metered_distance": 4.9,
+        "distance_deviation": "95.92%",
+        "Faulty": "YES",
+        "engagement_id": 164
+    },
+    {
+        "time_deviation": "18.18%",
+        "metered_time": 22,
+        "metered_distance": 9.1,
+        "distance_deviation": "8.79%",
+        "Faulty": "NO",
+        "engagement_id": 165
+    },
+    {
+        "time_deviation": "47.06%",
+        "metered_time": 17,
+        "metered_distance": 5.1,
+        "distance_deviation": "21.57%",
+        "Faulty": "NO",
+        "engagement_id": 166
+    },
+    {
+        "time_deviation": "14.00%",
+        "metered_time": 0,
+        "metered_distance": 8.3,
+        "distance_deviation": "15.66%",
+        "Faulty": "NO",
+        "engagement_id": 167
+    },
+    {
+        "time_deviation": "50.00%",
+        "metered_time": 20,
+        "metered_distance": 8.2,
+        "distance_deviation": "42.68%",
+        "Faulty": "NO",
+        "engagement_id": 168
+    },
+    {
+        "time_deviation": "16.00%",
+        "metered_time": 0,
+        "metered_distance": 7.9,
+        "distance_deviation": "2.53%",
+        "Faulty": "NO",
+        "engagement_id": 169
+    },
+    {
+        "time_deviation": "72.73%",
+        "metered_time": 55,
+        "metered_distance": 6.4,
+        "distance_deviation": "12.50%",
+        "Faulty": "NO",
+        "engagement_id": 170
+    },
+    {
+        "time_deviation": "350.00%",
+        "metered_time": 2,
+        "metered_distance": 5.8,
+        "distance_deviation": "13.79%",
+        "Faulty": "NO",
+        "engagement_id": 171
+    },
+    {
+        "time_deviation": "96.39%",
+        "metered_time": 83,
+        "metered_distance": 28.2,
+        "distance_deviation": "96.45%",
+        "Faulty": "YES",
+        "engagement_id": 172
+    },
+    {
+        "time_deviation": "61.11%",
+        "metered_time": 18,
+        "metered_distance": 6.1,
+        "distance_deviation": "52.46%",
+        "Faulty": "YES",
+        "engagement_id": 173
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 9,
+        "metered_distance": 4.9,
+        "distance_deviation": "2.04%",
+        "Faulty": "NO",
+        "engagement_id": 174
+    },
+    {
+        "time_deviation": "5.00%",
+        "metered_time": 20,
+        "metered_distance": 10.8,
+        "distance_deviation": "5.56%",
+        "Faulty": "NO",
+        "engagement_id": 175
+    },
+    {
+        "time_deviation": "37.14%",
+        "metered_time": 35,
+        "metered_distance": 10,
+        "distance_deviation": "12.00%",
+        "Faulty": "NO",
+        "engagement_id": 176
+    },
+    {
+        "time_deviation": "44.19%",
+        "metered_time": 43,
+        "metered_distance": 13.8,
+        "distance_deviation": "10.14%",
+        "Faulty": "NO",
+        "engagement_id": 177
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 19,
+        "metered_distance": 9.4,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 178
+    },
+    {
+        "time_deviation": "85.71%",
+        "metered_time": 7,
+        "metered_distance": 0.1,
+        "distance_deviation": "19900.00%",
+        "Faulty": "NO",
+        "engagement_id": 179
+    },
+    {
+        "time_deviation": "57.45%",
+        "metered_time": 47,
+        "metered_distance": 9.6,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 180
+    },
+    {
+        "time_deviation": "86.27%",
+        "metered_time": 51,
+        "metered_distance": 3.2,
+        "distance_deviation": "18.75%",
+        "Faulty": "NO",
+        "engagement_id": 181
+    },
+    {
+        "time_deviation": "96.77%",
+        "metered_time": 31,
+        "metered_distance": 8.2,
+        "distance_deviation": "97.56%",
+        "Faulty": "YES",
+        "engagement_id": 182
+    },
+    {
+        "time_deviation": "43.75%",
+        "metered_time": 16,
+        "metered_distance": 5.4,
+        "distance_deviation": "16.67%",
+        "Faulty": "NO",
+        "engagement_id": 183
+    },
+    {
+        "time_deviation": "3.45%",
+        "metered_time": 29,
+        "metered_distance": 13.9,
+        "distance_deviation": "3.60%",
+        "Faulty": "NO",
+        "engagement_id": 184
+    },
+    {
+        "time_deviation": "21.88%",
+        "metered_time": 32,
+        "metered_distance": 14.3,
+        "distance_deviation": "5.59%",
+        "Faulty": "NO",
+        "engagement_id": 185
+    },
+    {
+        "time_deviation": "5.26%",
+        "metered_time": 19,
+        "metered_distance": 9.6,
+        "distance_deviation": "5.21%",
+        "Faulty": "NO",
+        "engagement_id": 186
+    },
+    {
+        "time_deviation": "12.50%",
+        "metered_time": 32,
+        "metered_distance": 12.8,
+        "distance_deviation": "8.59%",
+        "Faulty": "NO",
+        "engagement_id": 187
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 12,
+        "metered_distance": 4.8,
+        "distance_deviation": "6.25%",
+        "Faulty": "NO",
+        "engagement_id": 188
+    },
+    {
+        "time_deviation": "35.71%",
+        "metered_time": 14,
+        "metered_distance": 4.3,
+        "distance_deviation": "2.33%",
+        "Faulty": "NO",
+        "engagement_id": 189
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 9,
+        "metered_distance": 3.7,
+        "distance_deviation": "10.81%",
+        "Faulty": "NO",
+        "engagement_id": 190
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 15,
+        "metered_distance": 4.7,
+        "distance_deviation": "2.13%",
+        "Faulty": "NO",
+        "engagement_id": 191
+    },
+    {
+        "time_deviation": "96.30%",
+        "metered_time": 27,
+        "metered_distance": 10.4,
+        "distance_deviation": "294.23%",
+        "Faulty": "YES",
+        "engagement_id": 192
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 9,
+        "metered_distance": 3.3,
+        "distance_deviation": "24.24%",
+        "Faulty": "NO",
+        "engagement_id": 193
+    },
+    {
+        "time_deviation": "10.53%",
+        "metered_time": 19,
+        "metered_distance": 7.8,
+        "distance_deviation": "7.69%",
+        "Faulty": "NO",
+        "engagement_id": 194
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 9,
+        "metered_distance": 2.8,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 195
+    },
+    {
+        "time_deviation": "69.05%",
+        "metered_time": 42,
+        "metered_distance": 8.7,
+        "distance_deviation": "34.48%",
+        "Faulty": "YES",
+        "engagement_id": 196
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 20,
+        "metered_distance": 7.2,
+        "distance_deviation": "4.17%",
+        "Faulty": "NO",
+        "engagement_id": 197
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 6,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 198
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 7,
+        "metered_distance": 1.3,
+        "distance_deviation": "46.15%",
+        "Faulty": "NO",
+        "engagement_id": 199
+    },
+    {
+        "time_deviation": "18.52%",
+        "metered_time": 27,
+        "metered_distance": 11.5,
+        "distance_deviation": "3.48%",
+        "Faulty": "NO",
+        "engagement_id": 200
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 7,
+        "metered_distance": 2.7,
+        "distance_deviation": "51.85%",
+        "Faulty": "NO",
+        "engagement_id": 201
+    },
+    {
+        "time_deviation": "6.25%",
+        "metered_time": 16,
+        "metered_distance": 7.1,
+        "distance_deviation": "2.82%",
+        "Faulty": "NO",
+        "engagement_id": 202
+    },
+    {
+        "time_deviation": "51.43%",
+        "metered_time": 35,
+        "metered_distance": 9.1,
+        "distance_deviation": "2.20%",
+        "Faulty": "NO",
+        "engagement_id": 203
+    },
+    {
+        "time_deviation": "37.84%",
+        "metered_time": 37,
+        "metered_distance": 11.7,
+        "distance_deviation": "1.71%",
+        "Faulty": "NO",
+        "engagement_id": 204
+    },
+    {
+        "time_deviation": "69.77%",
+        "metered_time": 43,
+        "metered_distance": 8.2,
+        "distance_deviation": "25.61%",
+        "Faulty": "YES",
+        "engagement_id": 205
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 15,
+        "metered_distance": 6.3,
+        "distance_deviation": "1.59%",
+        "Faulty": "NO",
+        "engagement_id": 206
+    },
+    {
+        "time_deviation": "31.03%",
+        "metered_time": 29,
+        "metered_distance": 9.4,
+        "distance_deviation": "1.06%",
+        "Faulty": "NO",
+        "engagement_id": 207
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 11,
+        "metered_distance": 4.6,
+        "distance_deviation": "10.87%",
+        "Faulty": "NO",
+        "engagement_id": 208
+    },
+    {
+        "time_deviation": "59.09%",
+        "metered_time": 22,
+        "metered_distance": 4.5,
+        "distance_deviation": "4.44%",
+        "Faulty": "NO",
+        "engagement_id": 209
+    },
+    {
+        "time_deviation": "36.84%",
+        "metered_time": 19,
+        "metered_distance": 5.4,
+        "distance_deviation": "7.41%",
+        "Faulty": "NO",
+        "engagement_id": 210
+    },
+    {
+        "time_deviation": "23.53%",
+        "metered_time": 17,
+        "metered_distance": 5.4,
+        "distance_deviation": "7.41%",
+        "Faulty": "NO",
+        "engagement_id": 211
+    },
+    {
+        "time_deviation": "48.15%",
+        "metered_time": 27,
+        "metered_distance": 7.4,
+        "distance_deviation": "16.22%",
+        "Faulty": "NO",
+        "engagement_id": 212
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 14,
+        "metered_distance": 4.7,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 213
+    },
+    {
+        "time_deviation": "21.05%",
+        "metered_time": 19,
+        "metered_distance": 7.8,
+        "distance_deviation": "6.41%",
+        "Faulty": "NO",
+        "engagement_id": 214
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 16,
+        "metered_distance": 6.3,
+        "distance_deviation": "1.59%",
+        "Faulty": "NO",
+        "engagement_id": 215
+    },
+    {
+        "time_deviation": "22.22%",
+        "metered_time": 9,
+        "metered_distance": 2.5,
+        "distance_deviation": "12.00%",
+        "Faulty": "NO",
+        "engagement_id": 216
+    },
+    {
+        "time_deviation": "77.78%",
+        "metered_time": 9,
+        "metered_distance": 1.7,
+        "distance_deviation": "76.47%",
+        "Faulty": "NO",
+        "engagement_id": 217
+    },
+    {
+        "time_deviation": "64.71%",
+        "metered_time": 34,
+        "metered_distance": 4.7,
+        "distance_deviation": "2.13%",
+        "Faulty": "NO",
+        "engagement_id": 218
+    },
+    {
+        "time_deviation": "10.00%",
+        "metered_time": 10,
+        "metered_distance": 3.9,
+        "distance_deviation": "7.69%",
+        "Faulty": "NO",
+        "engagement_id": 219
+    },
+    {
+        "time_deviation": "18.75%",
+        "metered_time": 16,
+        "metered_distance": 6.4,
+        "distance_deviation": "6.25%",
+        "Faulty": "NO",
+        "engagement_id": 220
+    },
+    {
+        "time_deviation": "57.58%",
+        "metered_time": 33,
+        "metered_distance": 7.3,
+        "distance_deviation": "9.59%",
+        "Faulty": "NO",
+        "engagement_id": 221
+    },
+    {
+        "time_deviation": "65.00%",
+        "metered_time": 40,
+        "metered_distance": 6.8,
+        "distance_deviation": "2.94%",
+        "Faulty": "NO",
+        "engagement_id": 222
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 10,
+        "metered_distance": 4,
+        "distance_deviation": "15.00%",
+        "Faulty": "NO",
+        "engagement_id": 223
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 8,
+        "metered_distance": 3.5,
+        "distance_deviation": "5.71%",
+        "Faulty": "NO",
+        "engagement_id": 224
+    },
+    {
+        "time_deviation": "28.57%",
+        "metered_time": 7,
+        "metered_distance": 2.6,
+        "distance_deviation": "7.69%",
+        "Faulty": "NO",
+        "engagement_id": 225
+    },
+    {
+        "time_deviation": "21.74%",
+        "metered_time": 23,
+        "metered_distance": 8.9,
+        "distance_deviation": "3.37%",
+        "Faulty": "NO",
+        "engagement_id": 226
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 16,
+        "metered_distance": 6.5,
+        "distance_deviation": "18.46%",
+        "Faulty": "NO",
+        "engagement_id": 227
+    },
+    {
+        "time_deviation": "34.48%",
+        "metered_time": 29,
+        "metered_distance": 9.2,
+        "distance_deviation": "4.35%",
+        "Faulty": "NO",
+        "engagement_id": 228
+    },
+    {
+        "time_deviation": "19.35%",
+        "metered_time": 31,
+        "metered_distance": 13.2,
+        "distance_deviation": "3.03%",
+        "Faulty": "NO",
+        "engagement_id": 229
+    },
+    {
+        "time_deviation": "25.64%",
+        "metered_time": 39,
+        "metered_distance": 17.6,
+        "distance_deviation": "10.23%",
+        "Faulty": "NO",
+        "engagement_id": 230
+    },
+    {
+        "time_deviation": "61.76%",
+        "metered_time": 34,
+        "metered_distance": 11.1,
+        "distance_deviation": "48.65%",
+        "Faulty": "YES",
+        "engagement_id": 231
+    },
+    {
+        "time_deviation": "11.76%",
+        "metered_time": 17,
+        "metered_distance": 7.7,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 232
+    },
+    {
+        "time_deviation": "79.17%",
+        "metered_time": 24,
+        "metered_distance": 2.6,
+        "distance_deviation": "19.23%",
+        "Faulty": "NO",
+        "engagement_id": 233
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 21,
+        "metered_distance": 8.9,
+        "distance_deviation": "6.74%",
+        "Faulty": "NO",
+        "engagement_id": 234
+    },
+    {
+        "time_deviation": "40.00%",
+        "metered_time": 10,
+        "metered_distance": 2.9,
+        "distance_deviation": "3.45%",
+        "Faulty": "NO",
+        "engagement_id": 235
+    },
+    {
+        "time_deviation": "84.62%",
+        "metered_time": 26,
+        "metered_distance": 10.3,
+        "distance_deviation": "84.47%",
+        "Faulty": "YES",
+        "engagement_id": 236
+    },
+    {
+        "time_deviation": "7.69%",
+        "metered_time": 13,
+        "metered_distance": 5.4,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 237
+    },
+    {
+        "time_deviation": "48.00%",
+        "metered_time": 25,
+        "metered_distance": 11.4,
+        "distance_deviation": "38.60%",
+        "Faulty": "YES",
+        "engagement_id": 238
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 6,
+        "metered_distance": 1.3,
+        "distance_deviation": "7.69%",
+        "Faulty": "NO",
+        "engagement_id": 239
+    },
+    {
+        "time_deviation": "10.00%",
+        "metered_time": 10,
+        "metered_distance": 2.7,
+        "distance_deviation": "59.26%",
+        "Faulty": "NO",
+        "engagement_id": 240
+    },
+    {
+        "time_deviation": "90.00%",
+        "metered_time": 30,
+        "metered_distance": 8.7,
+        "distance_deviation": "88.51%",
+        "Faulty": "YES",
+        "engagement_id": 241
+    },
+    {
+        "time_deviation": "18.52%",
+        "metered_time": 27,
+        "metered_distance": 11.9,
+        "distance_deviation": "2.52%",
+        "Faulty": "NO",
+        "engagement_id": 242
+    },
+    {
+        "time_deviation": "9.09%",
+        "metered_time": 11,
+        "metered_distance": 4.6,
+        "distance_deviation": "2.17%",
+        "Faulty": "NO",
+        "engagement_id": 243
+    },
+    {
+        "time_deviation": "65.71%",
+        "metered_time": 35,
+        "metered_distance": 6.4,
+        "distance_deviation": "7.81%",
+        "Faulty": "NO",
+        "engagement_id": 244
+    },
+    {
+        "time_deviation": "85.00%",
+        "metered_time": 60,
+        "metered_distance": 4,
+        "distance_deviation": "7.50%",
+        "Faulty": "NO",
+        "engagement_id": 245
+    },
+    {
+        "time_deviation": "37.04%",
+        "metered_time": 27,
+        "metered_distance": 10.7,
+        "distance_deviation": "14.95%",
+        "Faulty": "NO",
+        "engagement_id": 246
+    },
+    {
+        "time_deviation": "5.56%",
+        "metered_time": 18,
+        "metered_distance": 7.6,
+        "distance_deviation": "5.26%",
+        "Faulty": "NO",
+        "engagement_id": 247
+    },
+    {
+        "time_deviation": "60.61%",
+        "metered_time": 33,
+        "metered_distance": 9.6,
+        "distance_deviation": "41.67%",
+        "Faulty": "YES",
+        "engagement_id": 248
+    },
+    {
+        "time_deviation": "84.62%",
+        "metered_time": 13,
+        "metered_distance": 0.4,
+        "distance_deviation": "25.00%",
+        "Faulty": "NO",
+        "engagement_id": 249
+    },
+    {
+        "time_deviation": "86.05%",
+        "metered_time": 43,
+        "metered_distance": 6.6,
+        "distance_deviation": "59.09%",
+        "Faulty": "YES",
+        "engagement_id": 250
+    },
+    {
+        "time_deviation": "17.00%",
+        "metered_time": 0,
+        "metered_distance": 9.4,
+        "distance_deviation": "14.89%",
+        "Faulty": "NO",
+        "engagement_id": 251
+    },
+    {
+        "time_deviation": "39.39%",
+        "metered_time": 33,
+        "metered_distance": 9.9,
+        "distance_deviation": "4.04%",
+        "Faulty": "NO",
+        "engagement_id": 252
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 7,
+        "metered_distance": 2.5,
+        "distance_deviation": "36.00%",
+        "Faulty": "NO",
+        "engagement_id": 253
+    },
+    {
+        "time_deviation": "60.00%",
+        "metered_time": 20,
+        "metered_distance": 2,
+        "distance_deviation": "60.00%",
+        "Faulty": "NO",
+        "engagement_id": 254
+    },
+    {
+        "time_deviation": "11.76%",
+        "metered_time": 17,
+        "metered_distance": 7,
+        "distance_deviation": "1.43%",
+        "Faulty": "NO",
+        "engagement_id": 255
+    },
+    {
+        "time_deviation": "40.00%",
+        "metered_time": 15,
+        "metered_distance": 5.5,
+        "distance_deviation": "20.00%",
+        "Faulty": "NO",
+        "engagement_id": 256
+    },
+    {
+        "time_deviation": "44.07%",
+        "metered_time": 59,
+        "metered_distance": 17.1,
+        "distance_deviation": "7.02%",
+        "Faulty": "NO",
+        "engagement_id": 257
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 12,
+        "metered_distance": 3.8,
+        "distance_deviation": "2.63%",
+        "Faulty": "NO",
+        "engagement_id": 258
+    },
+    {
+        "time_deviation": "22.58%",
+        "metered_time": 31,
+        "metered_distance": 12.4,
+        "distance_deviation": "7.26%",
+        "Faulty": "NO",
+        "engagement_id": 259
+    },
+    {
+        "time_deviation": "98.00%",
+        "metered_time": 50,
+        "metered_distance": 7.8,
+        "distance_deviation": "810.26%",
+        "Faulty": "YES",
+        "engagement_id": 260
+    },
+    {
+        "time_deviation": "55.56%",
+        "metered_time": 27,
+        "metered_distance": 10.3,
+        "distance_deviation": "51.46%",
+        "Faulty": "YES",
+        "engagement_id": 261
+    },
+    {
+        "time_deviation": "25.00%",
+        "metered_time": 12,
+        "metered_distance": 5.4,
+        "distance_deviation": "11.11%",
+        "Faulty": "NO",
+        "engagement_id": 262
+    },
+    {
+        "time_deviation": "65.62%",
+        "metered_time": 32,
+        "metered_distance": 7.6,
+        "distance_deviation": "28.95%",
+        "Faulty": "YES",
+        "engagement_id": 263
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 14,
+        "metered_distance": 5.6,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 264
+    },
+    {
+        "time_deviation": "16.67%",
+        "metered_time": 24,
+        "metered_distance": 9.6,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 265
+    },
+    {
+        "time_deviation": "14.29%",
+        "metered_time": 7,
+        "metered_distance": 2.1,
+        "distance_deviation": "9.52%",
+        "Faulty": "NO",
+        "engagement_id": 266
+    },
+    {
+        "time_deviation": "56.25%",
+        "metered_time": 32,
+        "metered_distance": 9,
+        "distance_deviation": "22.22%",
+        "Faulty": "NO",
+        "engagement_id": 267
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 10,
+        "metered_distance": 3.8,
+        "distance_deviation": "7.89%",
+        "Faulty": "NO",
+        "engagement_id": 268
+    },
+    {
+        "time_deviation": "0.00%",
+        "metered_time": 10,
+        "metered_distance": 3.9,
+        "distance_deviation": "28.21%",
+        "Faulty": "NO",
+        "engagement_id": 269
+    },
+    {
+        "time_deviation": "45.00%",
+        "metered_time": 20,
+        "metered_distance": 4.9,
+        "distance_deviation": "8.16%",
+        "Faulty": "NO",
+        "engagement_id": 270
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 6,
+        "metered_distance": 1.8,
+        "distance_deviation": "61.11%",
+        "Faulty": "NO",
+        "engagement_id": 271
+    },
+    {
+        "time_deviation": "39.29%",
+        "metered_time": 28,
+        "metered_distance": 9.1,
+        "distance_deviation": "7.69%",
+        "Faulty": "NO",
+        "engagement_id": 272
+    },
+    {
+        "time_deviation": "63.33%",
+        "metered_time": 30,
+        "metered_distance": 10.2,
+        "distance_deviation": "54.90%",
+        "Faulty": "YES",
+        "engagement_id": 273
+    },
+    {
+        "time_deviation": "79.31%",
+        "metered_time": 29,
+        "metered_distance": 5.8,
+        "distance_deviation": "62.07%",
+        "Faulty": "YES",
+        "engagement_id": 274
+    },
+    {
+        "time_deviation": "76.92%",
+        "metered_time": 13,
+        "metered_distance": 1.7,
+        "distance_deviation": "29.41%",
+        "Faulty": "NO",
+        "engagement_id": 275
+    },
+    {
+        "time_deviation": "38.10%",
+        "metered_time": 21,
+        "metered_distance": 6.9,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 276
+    },
+    {
+        "time_deviation": "16.00%",
+        "metered_time": 25,
+        "metered_distance": 10.3,
+        "distance_deviation": "3.88%",
+        "Faulty": "NO",
+        "engagement_id": 277
+    },
+    {
+        "time_deviation": "9.09%",
+        "metered_time": 11,
+        "metered_distance": 4.3,
+        "distance_deviation": "13.95%",
+        "Faulty": "NO",
+        "engagement_id": 278
+    },
+    {
+        "time_deviation": "17.65%",
+        "metered_time": 17,
+        "metered_distance": 6.7,
+        "distance_deviation": "7.46%",
+        "Faulty": "NO",
+        "engagement_id": 279
+    },
+    {
+        "time_deviation": "35.71%",
+        "metered_time": 14,
+        "metered_distance": 3.8,
+        "distance_deviation": "10.53%",
+        "Faulty": "NO",
+        "engagement_id": 280
+    },
+    {
+        "time_deviation": "35.29%",
+        "metered_time": 34,
+        "metered_distance": 11.6,
+        "distance_deviation": "0.86%",
+        "Faulty": "NO",
+        "engagement_id": 281
+    },
+    {
+        "time_deviation": "20.00%",
+        "metered_time": 15,
+        "metered_distance": 5.9,
+        "distance_deviation": "6.78%",
+        "Faulty": "NO",
+        "engagement_id": 282
+    },
+    {
+        "time_deviation": "13.64%",
+        "metered_time": 22,
+        "metered_distance": 9.2,
+        "distance_deviation": "6.52%",
+        "Faulty": "NO",
+        "engagement_id": 283
+    },
+    {
+        "time_deviation": "57.14%",
+        "metered_time": 7,
+        "metered_distance": 2.5,
+        "distance_deviation": "36.00%",
+        "Faulty": "NO",
+        "engagement_id": 284
+    },
+    {
+        "time_deviation": "35.71%",
+        "metered_time": 28,
+        "metered_distance": 9.6,
+        "distance_deviation": "0.00%",
+        "Faulty": "NO",
+        "engagement_id": 285
+    },
+    {
+        "time_deviation": "86.21%",
+        "metered_time": 29,
+        "metered_distance": 9.1,
+        "distance_deviation": "86.81%",
+        "Faulty": "YES",
+        "engagement_id": 286
+    },
+    {
+        "time_deviation": "4.00%",
+        "metered_time": 0,
+        "metered_distance": 20,
+        "distance_deviation": "94.00%",
+        "Faulty": "NO",
+        "engagement_id": 287
+    },
+    {
+        "time_deviation": "21.21%",
+        "metered_time": 33,
+        "metered_distance": 11.4,
+        "distance_deviation": "2.63%",
+        "Faulty": "NO",
+        "engagement_id": 288
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 27,
+        "metered_distance": 8,
+        "distance_deviation": "30.00%",
+        "Faulty": "NO",
+        "engagement_id": 289
+    },
+    {
+        "time_deviation": "15.38%",
+        "metered_time": 13,
+        "metered_distance": 4.3,
+        "distance_deviation": "4.65%",
+        "Faulty": "NO",
+        "engagement_id": 290
+    },
+    {
+        "time_deviation": "54.55%",
+        "metered_time": 22,
+        "metered_distance": 4.4,
+        "distance_deviation": "11.36%",
+        "Faulty": "NO",
+        "engagement_id": 291
+    },
+    {
+        "time_deviation": "96.00%",
+        "metered_time": 25,
+        "metered_distance": 3.6,
+        "distance_deviation": "1483.33%",
+        "Faulty": "YES",
+        "engagement_id": 292
+    },
+    {
+        "time_deviation": "97.62%",
+        "metered_time": 42,
+        "metered_distance": 6.2,
+        "distance_deviation": "206.45%",
+        "Faulty": "YES",
+        "engagement_id": 293
+    },
+    {
+        "time_deviation": "77.14%",
+        "metered_time": 35,
+        "metered_distance": 10,
+        "distance_deviation": "60.00%",
+        "Faulty": "YES",
+        "engagement_id": 294
+    },
+    {
+        "time_deviation": "33.33%",
+        "metered_time": 12,
+        "metered_distance": 4.4,
+        "distance_deviation": "11.36%",
+        "Faulty": "NO",
+        "engagement_id": 295
+    },
+    {
+        "time_deviation": "89.19%",
+        "metered_time": 37,
+        "metered_distance": 5.1,
+        "distance_deviation": "62.75%",
+        "Faulty": "YES",
+        "engagement_id": 296
+    },
+    {
+        "time_deviation": "96.43%",
+        "metered_time": 28,
+        "metered_distance": 6.7,
+        "distance_deviation": "95.52%",
+        "Faulty": "YES",
+        "engagement_id": 297
+    },
+    {
+        "time_deviation": "60.00%",
+        "metered_time": 40,
+        "metered_distance": 7.8,
+        "distance_deviation": "8.97%",
+        "Faulty": "NO",
+        "engagement_id": 298
+    },
+    {
+        "time_deviation": "51.85%",
+        "metered_time": 27,
+        "metered_distance": 8.1,
+        "distance_deviation": "9.88%",
+        "Faulty": "NO",
+        "engagement_id": 299
+    },
+    {
+        "time_deviation": "8.33%",
+        "metered_time": 12,
+        "metered_distance": 5.4,
+        "distance_deviation": "7.41%",
+        "Faulty": "NO",
+        "engagement_id": 300
+    }
+]
